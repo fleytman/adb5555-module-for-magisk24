@@ -1,6 +1,6 @@
-id=publicMagiskModuleTemplate
-name=publicMagiskModuleTemplate
-version=v1.0
+id=adbwifi5555
+name=adb wifi after reboot
+version=1.0
 versionCode=1
-author=publicMagiskModuleTemplate
-description=publicMagiskModuleTemplate
+author=m.fleytman@gmail.com
+description=adb tcpip 5555 port
